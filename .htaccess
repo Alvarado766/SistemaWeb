@@ -1,0 +1,10 @@
+# Desativa a listagem de diretórios
+Options -Indexes
+
+RewriteEngine On
+
+# Redireciona a raiz do site para a pasta public
+RewriteRule ^$ Sistema/public/ [L]
+
+# Redireciona todas as outras requisições para a pasta public
+RewriteRule ^(.*)$ Sistema/public/$1 [L]
