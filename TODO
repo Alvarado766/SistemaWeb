@@ -1,0 +1,17 @@
+[Projeto : sistemaWeb]
+
+organizaçao da raiz do projeto:
+  ✔ Criar o composer @done(24-07-18 22:18)
+  ✔ criar o htacces na raiz @done(24-07-18 22:18)
+  ✔ Criaçao da pasta vendor junto com o composer.json @done(24-07-18 22:19)
+  ✔ coloca no git ignore o composer.json e lock @done(24-07-18 22:20)
+
+Organizaçao de pasta na raiz:
+  ✔ criar a pasta public @done(24-07-18 22:20)
+  ✔ inserir o index.php @done(24-07-18 22:21)
+  ✔ Criar o htacces da pasta e configurar o redirecionamento @done(24-07-18 22:21)
+
+  
+
+Archive:
+  ✔ cria a pasta sistema @done(24-07-18 22:22)
