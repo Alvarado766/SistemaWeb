@@ -1,7 +1,0 @@
-Projeto : sistema web
-
-organizaçao :
-  ✔ Criar o composer.json @done(24-07-17 22:39)
-  ✔ Colocar no gitignore para ignora a subida do composer e compsoer lock @done(24-07-17 22:40)
-  ✔ criar o readme e subir no github @done(24-07-17 22:46)
-  ✔ subir o gitignore no github @done(24-07-17 22:47)
