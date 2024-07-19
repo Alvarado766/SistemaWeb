@@ -15,3 +15,10 @@ Organizaçao de pasta na raiz:
 
 Archive:
   ✔ cria a pasta sistema @done(24-07-18 22:22)
+  ✔ Criar uma pasta de helpers @done(24-07-18 22:32)
+  ✔ Criar a pasta roteador @done(24-07-19 00:15)
+  ☐ Criar a subpasta chamada aplicaçao
+
+Criaçao de rota em php:
+   ✔ criar a classe Roteador.php @done(24-07-19 00:16)
+
